@@ -1,10 +1,10 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "SQLiteExample",
-  "short_name": "SQLiteExample",
+  "name": "SQLiteExample-YDRF",
+  "short_name": "SQLiteExample-YDRF",
   "version": "com.codesundar.sqlite",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "description": "A sample Apache Cordova application that responds to the deviceready event YDRF.",
   "author": "Apache Cordova Team",
   "icons": [],
   "start_url": "index.html"

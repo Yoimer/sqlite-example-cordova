@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.codesundar.sqlite"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.codesundar.sqlite"
     }
   },
   "dependent_plugins": {}
