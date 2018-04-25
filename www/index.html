@@ -74,7 +74,7 @@
         }
 
         // Transaction success callback
-        //
+        //// window.openDatabase( database name , version , database description, estimated size );
         function successCB() {
             var db = window.openDatabase("Database", "7", "Cordova Demo", 200000);
             db.transaction(queryDB, errorCB);
@@ -147,8 +147,8 @@
     </div>
 
     <div>
-        Name<input type="text" value="Name" id="txtName">
-        Number<input type="text" value="123" id="txtNumber"><hr/>
+        Name<input type="text" value="" id="txtName">
+        Number<input type="text" value="" id="txtNumber"><hr/>
     </div>
     <div id="tblDiv"></div>
     <div style="text-align: center">
